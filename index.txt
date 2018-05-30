@@ -1,7 +1,4 @@
 Hello, World!
 Hello everybody!
-<<<<<<< HEAD
 Хэллоу
-=======
 редакция ветки Мастер
->>>>>>> master
