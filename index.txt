@@ -2,3 +2,4 @@ Hello, World!
 Hello everybody!
 Хэллоу
 редакция ветки Мастер
+Редакция ветки Hello-1
