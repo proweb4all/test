@@ -1,4 +1,4 @@
-Hello, World!
+Hello, World!;
 Hello everybody!
-Хэллоу
-редакция ветки Мастер
+Хэллоу;
+редакция ветки Мастер;
