@@ -1,2 +1,3 @@
 Hello, World!
 Hello everybody!
+редакция ветки Мастер
